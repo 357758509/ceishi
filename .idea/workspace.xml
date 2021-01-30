@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3b179c6e-05b1-4e39-97f0-672d2c3fcf3f" name="默认的" comment="b">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.html" beforeDir="false" afterPath="$PROJECT_DIR$/3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.html" beforeDir="false" afterPath="$PROJECT_DIR$/4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/8.html" beforeDir="false" afterPath="$PROJECT_DIR$/8.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ni/nida.html" beforeDir="false" afterPath="$PROJECT_DIR$/ni/nida.html" afterDir="false" />
     </list>
@@ -48,6 +44,7 @@
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -100,7 +97,63 @@
       <option name="project" value="LOCAL" />
       <updated>1611987618573</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="b">
+      <created>1611989141752</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611989141752</updated>
+    </task>
+    <task id="LOCAL-00008" summary="b">
+      <created>1611990086189</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611990086189</updated>
+    </task>
+    <task id="LOCAL-00009" summary="b">
+      <created>1611990274397</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1611990274397</updated>
+    </task>
+    <task id="LOCAL-00010" summary="b">
+      <created>1611990421027</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1611990421027</updated>
+    </task>
+    <task id="LOCAL-00011" summary="b">
+      <created>1611991133595</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1611991133595</updated>
+    </task>
+    <task id="LOCAL-00012" summary="b">
+      <created>1611993671981</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1611993671981</updated>
+    </task>
+    <task id="LOCAL-00013" summary="b">
+      <created>1611993754097</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1611993754097</updated>
+    </task>
+    <task id="LOCAL-00014" summary="b">
+      <created>1611993845717</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1611993845717</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
